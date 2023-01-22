@@ -23,7 +23,7 @@ jspm_packages/
 /packages/*/LICENSE
 **/lib
 **/dist
-
+!**/excalidraw/dist
 # compiled output
 /dist
 /tmp
